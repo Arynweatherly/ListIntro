@@ -1,0 +1,11 @@
+/Users/arynweatherly/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro
+/Users/arynweatherly/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.deps.json
+/Users/arynweatherly/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.runtimeconfig.json
+/Users/arynweatherly/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.runtimeconfig.dev.json
+/Users/arynweatherly/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.dll
+/Users/arynweatherly/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.pdb
+/Users/arynweatherly/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.csprojAssemblyReference.cache
+/Users/arynweatherly/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.AssemblyInfoInputs.cache
+/Users/arynweatherly/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.AssemblyInfo.cs
+/Users/arynweatherly/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.dll
+/Users/arynweatherly/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.pdb
